@@ -1,0 +1,60 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+      "img":"https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bWVufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+			"activity_periods": [
+        {
+					"start_time": 13.33,
+					"end_time": 13.54,
+          "duration":20,
+          "start_date":"01/02/2020",
+          "end_date":"01/02/2020"
+				},
+				{
+					"start_time": 11.11,
+					"end_time": 14.00,
+          "duration":169,
+          "start_date":"01/03/2020",
+          "end_date":"01/03/2020"
+				},
+				{
+					"start_time": 15.33,
+					"end_time": 20.02,
+          "duration":329,
+          "start_date":"16/03/2020"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+      "img":"https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8d29tYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+			"activity_periods": [
+                {
+					"start_time": 13.33,
+					"end_time": 13.54,
+          "duration":20,
+          "start_date":"01/02/2020",
+          "end_date":"01/02/2020"
+				},
+				{
+					"start_time": 11.11,
+					"end_time": 14.00,
+          "duration":169,
+          "start_date":"01/03/2020",
+          "end_date":"01/03/2020"
+				},
+				{
+					"start_time": 15.33,
+					"end_time": 20.02,
+          "duration":329,
+          "start_date":"16/03/2020"
+				}
+			]
+		}
+	]
+}
